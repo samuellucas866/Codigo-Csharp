@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\bin\Debug\net8.0\Problema_Operadora.exe
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\bin\Debug\net8.0\Problema_Operadora.deps.json
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\bin\Debug\net8.0\Problema_Operadora.runtimeconfig.json
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\bin\Debug\net8.0\Problema_Operadora.dll
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\bin\Debug\net8.0\Problema_Operadora.pdb
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\Problema_Operadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\Problema_Operadora.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\Problema_Operadora.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\Problema_Operadora.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\Problema_Operadora.dll
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\refint\Problema_Operadora.dll
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\Problema_Operadora.pdb
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\Problema_Operadora.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Operadora\Problema_Operadora\obj\Debug\net8.0\ref\Problema_Operadora.dll

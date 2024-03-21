@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\bin\Debug\net8.0\Problema_Consumo.exe
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\bin\Debug\net8.0\Problema_Consumo.deps.json
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\bin\Debug\net8.0\Problema_Consumo.runtimeconfig.json
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\bin\Debug\net8.0\Problema_Consumo.dll
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\bin\Debug\net8.0\Problema_Consumo.pdb
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\Problema_Consumo.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\Problema_Consumo.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\Problema_Consumo.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\Problema_Consumo.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\Problema_Consumo.dll
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\refint\Problema_Consumo.dll
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\Problema_Consumo.pdb
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\Problema_Consumo.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Consumo\Problema_Consumo\obj\Debug\net8.0\ref\Problema_Consumo.dll

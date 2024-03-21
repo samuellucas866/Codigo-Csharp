@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\bin\Debug\net8.0\Problema_TrocoVerificado.exe
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\bin\Debug\net8.0\Problema_TrocoVerificado.deps.json
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\bin\Debug\net8.0\Problema_TrocoVerificado.runtimeconfig.json
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\bin\Debug\net8.0\Problema_TrocoVerificado.dll
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\bin\Debug\net8.0\Problema_TrocoVerificado.pdb
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\Problema_TrocoVerificado.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\Problema_TrocoVerificado.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\Problema_TrocoVerificado.AssemblyInfo.cs
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\Problema_TrocoVerificado.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\Problema_TrocoVerificado.dll
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\refint\Problema_TrocoVerificado.dll
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\Problema_TrocoVerificado.pdb
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\Problema_TrocoVerificado.genruntimeconfig.cache
+E:\WS-VS2022\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\net8.0\ref\Problema_TrocoVerificado.dll

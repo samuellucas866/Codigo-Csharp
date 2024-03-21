@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\bin\Debug\net8.0\Problema_Tabuada.exe
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\bin\Debug\net8.0\Problema_Tabuada.deps.json
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\bin\Debug\net8.0\Problema_Tabuada.runtimeconfig.json
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\bin\Debug\net8.0\Problema_Tabuada.dll
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\bin\Debug\net8.0\Problema_Tabuada.pdb
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\Problema_Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\Problema_Tabuada.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\Problema_Tabuada.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\Problema_Tabuada.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\Problema_Tabuada.dll
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\refint\Problema_Tabuada.dll
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\Problema_Tabuada.pdb
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\Problema_Tabuada.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Tabuada\Problema_Tabuada\obj\Debug\net8.0\ref\Problema_Tabuada.dll

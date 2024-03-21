@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\bin\Debug\net8.0\Problema_Cada_Linha.exe
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\bin\Debug\net8.0\Problema_Cada_Linha.deps.json
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\bin\Debug\net8.0\Problema_Cada_Linha.runtimeconfig.json
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\bin\Debug\net8.0\Problema_Cada_Linha.dll
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\bin\Debug\net8.0\Problema_Cada_Linha.pdb
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\Problema_Cada_Linha.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\Problema_Cada_Linha.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\Problema_Cada_Linha.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\Problema_Cada_Linha.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\Problema_Cada_Linha.dll
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\refint\Problema_Cada_Linha.dll
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\Problema_Cada_Linha.pdb
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\Problema_Cada_Linha.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Cada_Linha\Problema_Cada_Linha\obj\Debug\net8.0\ref\Problema_Cada_Linha.dll

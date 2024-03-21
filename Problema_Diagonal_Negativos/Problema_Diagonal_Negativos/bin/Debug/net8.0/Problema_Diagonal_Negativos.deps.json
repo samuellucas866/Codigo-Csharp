@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problema_Diagonal_Negativos/1.0.0": {
+        "runtime": {
+          "Problema_Diagonal_Negativos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema_Diagonal_Negativos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

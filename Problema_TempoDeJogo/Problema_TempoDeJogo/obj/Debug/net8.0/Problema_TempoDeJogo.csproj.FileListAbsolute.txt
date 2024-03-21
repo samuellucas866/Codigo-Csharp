@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\bin\Debug\net8.0\Problema_TempoDeJogo.exe
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\bin\Debug\net8.0\Problema_TempoDeJogo.deps.json
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\bin\Debug\net8.0\Problema_TempoDeJogo.runtimeconfig.json
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\bin\Debug\net8.0\Problema_TempoDeJogo.dll
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\bin\Debug\net8.0\Problema_TempoDeJogo.pdb
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\Problema_TempoDeJogo.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\Problema_TempoDeJogo.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\Problema_TempoDeJogo.AssemblyInfo.cs
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\Problema_TempoDeJogo.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\Problema_TempoDeJogo.dll
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\refint\Problema_TempoDeJogo.dll
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\Problema_TempoDeJogo.pdb
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\Problema_TempoDeJogo.genruntimeconfig.cache
+E:\WS-VS2022\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\net8.0\ref\Problema_TempoDeJogo.dll

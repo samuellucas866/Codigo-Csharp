@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Troco\Problema_Troco\bin\Debug\net8.0\Problema_Troco.exe
+E:\WS-VS2022\Problema_Troco\Problema_Troco\bin\Debug\net8.0\Problema_Troco.deps.json
+E:\WS-VS2022\Problema_Troco\Problema_Troco\bin\Debug\net8.0\Problema_Troco.runtimeconfig.json
+E:\WS-VS2022\Problema_Troco\Problema_Troco\bin\Debug\net8.0\Problema_Troco.dll
+E:\WS-VS2022\Problema_Troco\Problema_Troco\bin\Debug\net8.0\Problema_Troco.pdb
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\Problema_Troco.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\Problema_Troco.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\Problema_Troco.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\Problema_Troco.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\Problema_Troco.dll
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\refint\Problema_Troco.dll
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\Problema_Troco.pdb
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\Problema_Troco.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Troco\Problema_Troco\obj\Debug\net8.0\ref\Problema_Troco.dll

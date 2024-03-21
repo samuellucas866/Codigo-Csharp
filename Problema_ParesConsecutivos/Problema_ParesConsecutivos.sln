@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema_ParesConsecutivos", "Problema_ParesConsecutivos\Problema_ParesConsecutivos.csproj", "{4EF37CD3-BDF1-45DA-9FB5-63D4337DA316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF37CD3-BDF1-45DA-9FB5-63D4337DA316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF37CD3-BDF1-45DA-9FB5-63D4337DA316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF37CD3-BDF1-45DA-9FB5-63D4337DA316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF37CD3-BDF1-45DA-9FB5-63D4337DA316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B6E814-E195-48AC-8019-8B7DBA06F00B}
+	EndGlobalSection
+EndGlobal

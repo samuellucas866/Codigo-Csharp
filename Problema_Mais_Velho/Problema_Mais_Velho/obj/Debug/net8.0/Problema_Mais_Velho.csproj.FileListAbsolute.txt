@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\bin\Debug\net8.0\Problema_Mais_Velho.exe
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\bin\Debug\net8.0\Problema_Mais_Velho.deps.json
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\bin\Debug\net8.0\Problema_Mais_Velho.runtimeconfig.json
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\bin\Debug\net8.0\Problema_Mais_Velho.dll
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\bin\Debug\net8.0\Problema_Mais_Velho.pdb
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\Problema_Mais_Velho.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\Problema_Mais_Velho.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\Problema_Mais_Velho.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\Problema_Mais_Velho.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\Problema_Mais_Velho.dll
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\refint\Problema_Mais_Velho.dll
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\Problema_Mais_Velho.pdb
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\Problema_Mais_Velho.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Mais_Velho\Problema_Mais_Velho\obj\Debug\net8.0\ref\Problema_Mais_Velho.dll

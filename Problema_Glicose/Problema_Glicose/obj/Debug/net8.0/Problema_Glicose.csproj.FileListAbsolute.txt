@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\bin\Debug\net8.0\Problema_Glicose.exe
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\bin\Debug\net8.0\Problema_Glicose.deps.json
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\bin\Debug\net8.0\Problema_Glicose.runtimeconfig.json
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\bin\Debug\net8.0\Problema_Glicose.dll
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\bin\Debug\net8.0\Problema_Glicose.pdb
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\Problema_Glicose.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\Problema_Glicose.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\Problema_Glicose.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\Problema_Glicose.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\Problema_Glicose.dll
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\refint\Problema_Glicose.dll
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\Problema_Glicose.pdb
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\Problema_Glicose.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Glicose\Problema_Glicose\obj\Debug\net8.0\ref\Problema_Glicose.dll

@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\bin\Debug\net8.0\Problema_Multiplos.exe
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\bin\Debug\net8.0\Problema_Multiplos.deps.json
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\bin\Debug\net8.0\Problema_Multiplos.runtimeconfig.json
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\bin\Debug\net8.0\Problema_Multiplos.dll
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\bin\Debug\net8.0\Problema_Multiplos.pdb
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\Problema_Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\Problema_Multiplos.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\Problema_Multiplos.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\Problema_Multiplos.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\Problema_Multiplos.dll
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\refint\Problema_Multiplos.dll
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\Problema_Multiplos.pdb
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\Problema_Multiplos.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Multiplos\Problema_Multiplos\obj\Debug\net8.0\ref\Problema_Multiplos.dll

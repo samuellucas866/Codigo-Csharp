@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\bin\Debug\net8.0\Problema_Experimentos.exe
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\bin\Debug\net8.0\Problema_Experimentos.deps.json
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\bin\Debug\net8.0\Problema_Experimentos.runtimeconfig.json
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\bin\Debug\net8.0\Problema_Experimentos.dll
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\bin\Debug\net8.0\Problema_Experimentos.pdb
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\Problema_Experimentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\Problema_Experimentos.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\Problema_Experimentos.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\Problema_Experimentos.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\Problema_Experimentos.dll
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\refint\Problema_Experimentos.dll
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\Problema_Experimentos.pdb
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\Problema_Experimentos.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Experimentos\Problema_Experimentos\obj\Debug\net8.0\ref\Problema_Experimentos.dll

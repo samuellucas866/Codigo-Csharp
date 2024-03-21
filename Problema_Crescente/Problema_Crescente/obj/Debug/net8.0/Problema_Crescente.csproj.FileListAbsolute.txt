@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\bin\Debug\net8.0\Problema_Crescente.exe
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\bin\Debug\net8.0\Problema_Crescente.deps.json
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\bin\Debug\net8.0\Problema_Crescente.runtimeconfig.json
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\bin\Debug\net8.0\Problema_Crescente.dll
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\bin\Debug\net8.0\Problema_Crescente.pdb
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\Problema_Crescente.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\Problema_Crescente.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\Problema_Crescente.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\Problema_Crescente.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\Problema_Crescente.dll
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\refint\Problema_Crescente.dll
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\Problema_Crescente.pdb
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\Problema_Crescente.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Crescente\Problema_Crescente\obj\Debug\net8.0\ref\Problema_Crescente.dll

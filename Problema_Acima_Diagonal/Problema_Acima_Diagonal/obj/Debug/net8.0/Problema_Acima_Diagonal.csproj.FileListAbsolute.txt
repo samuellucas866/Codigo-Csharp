@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\bin\Debug\net8.0\Problema_Acima_Diagonal.exe
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\bin\Debug\net8.0\Problema_Acima_Diagonal.deps.json
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\bin\Debug\net8.0\Problema_Acima_Diagonal.runtimeconfig.json
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\bin\Debug\net8.0\Problema_Acima_Diagonal.dll
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\bin\Debug\net8.0\Problema_Acima_Diagonal.pdb
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\Problema_Acima_Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\Problema_Acima_Diagonal.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\Problema_Acima_Diagonal.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\Problema_Acima_Diagonal.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\Problema_Acima_Diagonal.dll
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\refint\Problema_Acima_Diagonal.dll
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\Problema_Acima_Diagonal.pdb
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\Problema_Acima_Diagonal.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Acima_Diagonal\Problema_Acima_Diagonal\obj\Debug\net8.0\ref\Problema_Acima_Diagonal.dll

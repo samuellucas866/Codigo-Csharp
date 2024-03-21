@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problema_Dentro_Fora/1.0.0": {
+        "runtime": {
+          "Problema_Dentro_Fora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema_Dentro_Fora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

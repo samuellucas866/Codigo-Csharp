@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\bin\Debug\net8.0\Problema_Coordenadas.exe
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\bin\Debug\net8.0\Problema_Coordenadas.deps.json
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\bin\Debug\net8.0\Problema_Coordenadas.runtimeconfig.json
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\bin\Debug\net8.0\Problema_Coordenadas.dll
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\bin\Debug\net8.0\Problema_Coordenadas.pdb
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\Problema_Coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\Problema_Coordenadas.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\Problema_Coordenadas.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\Problema_Coordenadas.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\Problema_Coordenadas.dll
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\refint\Problema_Coordenadas.dll
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\Problema_Coordenadas.pdb
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\Problema_Coordenadas.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Coordenadas\Problema_Coordenadas\obj\Debug\net8.0\ref\Problema_Coordenadas.dll

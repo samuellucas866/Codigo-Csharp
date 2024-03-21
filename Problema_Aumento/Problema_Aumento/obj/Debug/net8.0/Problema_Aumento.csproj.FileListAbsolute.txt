@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\bin\Debug\net8.0\Problema_Aumento.exe
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\bin\Debug\net8.0\Problema_Aumento.deps.json
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\bin\Debug\net8.0\Problema_Aumento.runtimeconfig.json
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\bin\Debug\net8.0\Problema_Aumento.dll
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\bin\Debug\net8.0\Problema_Aumento.pdb
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\Problema_Aumento.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\Problema_Aumento.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\Problema_Aumento.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\Problema_Aumento.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\Problema_Aumento.dll
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\refint\Problema_Aumento.dll
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\Problema_Aumento.pdb
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\Problema_Aumento.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Aumento\Problema_Aumento\obj\Debug\net8.0\ref\Problema_Aumento.dll

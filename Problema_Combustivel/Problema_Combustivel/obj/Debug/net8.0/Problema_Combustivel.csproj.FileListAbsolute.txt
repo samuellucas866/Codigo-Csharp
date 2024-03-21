@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\bin\Debug\net8.0\Problema_Combustivel.exe
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\bin\Debug\net8.0\Problema_Combustivel.deps.json
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\bin\Debug\net8.0\Problema_Combustivel.runtimeconfig.json
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\bin\Debug\net8.0\Problema_Combustivel.dll
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\bin\Debug\net8.0\Problema_Combustivel.pdb
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\Problema_Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\Problema_Combustivel.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\Problema_Combustivel.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\Problema_Combustivel.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\Problema_Combustivel.dll
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\refint\Problema_Combustivel.dll
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\Problema_Combustivel.pdb
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\Problema_Combustivel.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Combustivel\Problema_Combustivel\obj\Debug\net8.0\ref\Problema_Combustivel.dll

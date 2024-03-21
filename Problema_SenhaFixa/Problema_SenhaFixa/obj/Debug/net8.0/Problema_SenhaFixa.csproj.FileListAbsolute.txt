@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\bin\Debug\net8.0\Problema_SenhaFixa.exe
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\bin\Debug\net8.0\Problema_SenhaFixa.deps.json
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\bin\Debug\net8.0\Problema_SenhaFixa.runtimeconfig.json
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\bin\Debug\net8.0\Problema_SenhaFixa.dll
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\bin\Debug\net8.0\Problema_SenhaFixa.pdb
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\Problema_SenhaFixa.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\Problema_SenhaFixa.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\Problema_SenhaFixa.AssemblyInfo.cs
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\Problema_SenhaFixa.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\Problema_SenhaFixa.dll
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\refint\Problema_SenhaFixa.dll
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\Problema_SenhaFixa.pdb
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\Problema_SenhaFixa.genruntimeconfig.cache
+E:\WS-VS2022\Problema_SenhaFixa\Problema_SenhaFixa\obj\Debug\net8.0\ref\Problema_SenhaFixa.dll

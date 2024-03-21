@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\bin\Debug\net8.0\Problema_Fatorial.exe
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\bin\Debug\net8.0\Problema_Fatorial.deps.json
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\bin\Debug\net8.0\Problema_Fatorial.runtimeconfig.json
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\bin\Debug\net8.0\Problema_Fatorial.dll
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\bin\Debug\net8.0\Problema_Fatorial.pdb
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\Problema_Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\Problema_Fatorial.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\Problema_Fatorial.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\Problema_Fatorial.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\Problema_Fatorial.dll
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\refint\Problema_Fatorial.dll
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\Problema_Fatorial.pdb
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\Problema_Fatorial.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Fatorial\Problema_Fatorial\obj\Debug\net8.0\ref\Problema_Fatorial.dll

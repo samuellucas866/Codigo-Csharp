@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema_Numeros_Pares", "Problema_Numeros_Pares\Problema_Numeros_Pares.csproj", "{28C43389-EC87-458D-9EC6-91BB81165D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C43389-EC87-458D-9EC6-91BB81165D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C43389-EC87-458D-9EC6-91BB81165D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C43389-EC87-458D-9EC6-91BB81165D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C43389-EC87-458D-9EC6-91BB81165D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710E736E-305A-4F6F-824E-D246B4241B22}
+	EndGlobalSection
+EndGlobal

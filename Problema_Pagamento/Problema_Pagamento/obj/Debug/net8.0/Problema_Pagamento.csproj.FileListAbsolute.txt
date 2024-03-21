@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\bin\Debug\net8.0\Problema_Pagamento.exe
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\bin\Debug\net8.0\Problema_Pagamento.deps.json
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\bin\Debug\net8.0\Problema_Pagamento.runtimeconfig.json
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\bin\Debug\net8.0\Problema_Pagamento.dll
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\bin\Debug\net8.0\Problema_Pagamento.pdb
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\Problema_Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\Problema_Pagamento.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\Problema_Pagamento.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\Problema_Pagamento.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\Problema_Pagamento.dll
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\refint\Problema_Pagamento.dll
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\Problema_Pagamento.pdb
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\Problema_Pagamento.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Pagamento\Problema_Pagamento\obj\Debug\net8.0\ref\Problema_Pagamento.dll

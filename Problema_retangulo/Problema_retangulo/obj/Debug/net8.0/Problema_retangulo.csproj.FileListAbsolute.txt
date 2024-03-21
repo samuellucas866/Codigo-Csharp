@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\bin\Debug\net8.0\Problema_retangulo.exe
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\bin\Debug\net8.0\Problema_retangulo.deps.json
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\bin\Debug\net8.0\Problema_retangulo.runtimeconfig.json
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\bin\Debug\net8.0\Problema_retangulo.dll
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\bin\Debug\net8.0\Problema_retangulo.pdb
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\Problema_retangulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\Problema_retangulo.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\Problema_retangulo.AssemblyInfo.cs
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\Problema_retangulo.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\Problema_retangulo.dll
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\refint\Problema_retangulo.dll
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\Problema_retangulo.pdb
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\Problema_retangulo.genruntimeconfig.cache
+E:\WS-VS2022\Problema_retangulo\Problema_retangulo\obj\Debug\net8.0\ref\Problema_retangulo.dll

@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\bin\Debug\net8.0\Problema_Medidas.exe
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\bin\Debug\net8.0\Problema_Medidas.deps.json
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\bin\Debug\net8.0\Problema_Medidas.runtimeconfig.json
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\bin\Debug\net8.0\Problema_Medidas.dll
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\bin\Debug\net8.0\Problema_Medidas.pdb
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\Problema_Medidas.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\Problema_Medidas.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\Problema_Medidas.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\Problema_Medidas.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\Problema_Medidas.dll
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\refint\Problema_Medidas.dll
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\Problema_Medidas.pdb
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\Problema_Medidas.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Medidas\Problema_Medidas\obj\Debug\net8.0\ref\Problema_Medidas.dll

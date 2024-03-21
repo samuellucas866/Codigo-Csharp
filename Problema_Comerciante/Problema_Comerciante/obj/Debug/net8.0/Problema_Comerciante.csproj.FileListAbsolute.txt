@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\bin\Debug\net8.0\Problema_Comerciante.exe
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\bin\Debug\net8.0\Problema_Comerciante.deps.json
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\bin\Debug\net8.0\Problema_Comerciante.runtimeconfig.json
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\bin\Debug\net8.0\Problema_Comerciante.dll
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\bin\Debug\net8.0\Problema_Comerciante.pdb
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\Problema_Comerciante.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\Problema_Comerciante.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\Problema_Comerciante.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\Problema_Comerciante.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\Problema_Comerciante.dll
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\refint\Problema_Comerciante.dll
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\Problema_Comerciante.pdb
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\Problema_Comerciante.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Comerciante\Problema_Comerciante\obj\Debug\net8.0\ref\Problema_Comerciante.dll

@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\net8.0\Problema_Soma_Vetor.exe
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\net8.0\Problema_Soma_Vetor.deps.json
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\net8.0\Problema_Soma_Vetor.runtimeconfig.json
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\net8.0\Problema_Soma_Vetor.dll
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\net8.0\Problema_Soma_Vetor.pdb
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\Problema_Soma_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\Problema_Soma_Vetor.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\Problema_Soma_Vetor.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\Problema_Soma_Vetor.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\Problema_Soma_Vetor.dll
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\refint\Problema_Soma_Vetor.dll
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\Problema_Soma_Vetor.pdb
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\Problema_Soma_Vetor.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\net8.0\ref\Problema_Soma_Vetor.dll

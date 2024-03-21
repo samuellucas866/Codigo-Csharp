@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\bin\Debug\net8.0\Problema_Maior_Posicao.exe
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\bin\Debug\net8.0\Problema_Maior_Posicao.deps.json
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\bin\Debug\net8.0\Problema_Maior_Posicao.runtimeconfig.json
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\bin\Debug\net8.0\Problema_Maior_Posicao.dll
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\bin\Debug\net8.0\Problema_Maior_Posicao.pdb
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\Problema_Maior_Posicao.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\Problema_Maior_Posicao.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\Problema_Maior_Posicao.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\Problema_Maior_Posicao.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\Problema_Maior_Posicao.dll
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\refint\Problema_Maior_Posicao.dll
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\Problema_Maior_Posicao.pdb
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\Problema_Maior_Posicao.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Maior_Posicao\Problema_Maior_Posicao\obj\Debug\net8.0\ref\Problema_Maior_Posicao.dll

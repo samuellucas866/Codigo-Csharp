@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\bin\Debug\net8.0\Problema_ValidacaoNotas.exe
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\bin\Debug\net8.0\Problema_ValidacaoNotas.deps.json
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\bin\Debug\net8.0\Problema_ValidacaoNotas.runtimeconfig.json
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\bin\Debug\net8.0\Problema_ValidacaoNotas.dll
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\bin\Debug\net8.0\Problema_ValidacaoNotas.pdb
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\Problema_ValidacaoNotas.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\Problema_ValidacaoNotas.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\Problema_ValidacaoNotas.AssemblyInfo.cs
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\Problema_ValidacaoNotas.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\Problema_ValidacaoNotas.dll
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\refint\Problema_ValidacaoNotas.dll
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\Problema_ValidacaoNotas.pdb
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\Problema_ValidacaoNotas.genruntimeconfig.cache
+E:\WS-VS2022\Problema_ValidacaoNotas\Problema_ValidacaoNotas\obj\Debug\net8.0\ref\Problema_ValidacaoNotas.dll

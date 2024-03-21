@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\bin\Debug\net8.0\Problema_Media_Pares.exe
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\bin\Debug\net8.0\Problema_Media_Pares.deps.json
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\bin\Debug\net8.0\Problema_Media_Pares.runtimeconfig.json
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\bin\Debug\net8.0\Problema_Media_Pares.dll
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\bin\Debug\net8.0\Problema_Media_Pares.pdb
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\Problema_Media_Pares.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\Problema_Media_Pares.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\Problema_Media_Pares.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\Problema_Media_Pares.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\Problema_Media_Pares.dll
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\refint\Problema_Media_Pares.dll
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\Problema_Media_Pares.pdb
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\Problema_Media_Pares.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Media_Pares\Problema_Media_Pares\obj\Debug\net8.0\ref\Problema_Media_Pares.dll

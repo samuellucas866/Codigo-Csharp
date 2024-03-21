@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\bin\Debug\net8.0\Problema_MediaIdades.exe
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\bin\Debug\net8.0\Problema_MediaIdades.deps.json
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\bin\Debug\net8.0\Problema_MediaIdades.runtimeconfig.json
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\bin\Debug\net8.0\Problema_MediaIdades.dll
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\bin\Debug\net8.0\Problema_MediaIdades.pdb
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\Problema_MediaIdades.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\Problema_MediaIdades.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\Problema_MediaIdades.AssemblyInfo.cs
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\Problema_MediaIdades.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\Problema_MediaIdades.dll
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\refint\Problema_MediaIdades.dll
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\Problema_MediaIdades.pdb
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\Problema_MediaIdades.genruntimeconfig.cache
+E:\WS-VS2022\Problema_MediaIdades\Problema_MediaIdades\obj\Debug\net8.0\ref\Problema_MediaIdades.dll

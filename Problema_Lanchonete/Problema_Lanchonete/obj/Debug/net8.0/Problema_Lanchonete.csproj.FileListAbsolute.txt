@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\bin\Debug\net8.0\Problema_Lanchonete.exe
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\bin\Debug\net8.0\Problema_Lanchonete.deps.json
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\bin\Debug\net8.0\Problema_Lanchonete.runtimeconfig.json
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\bin\Debug\net8.0\Problema_Lanchonete.dll
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\bin\Debug\net8.0\Problema_Lanchonete.pdb
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\Problema_Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\Problema_Lanchonete.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\Problema_Lanchonete.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\Problema_Lanchonete.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\Problema_Lanchonete.dll
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\refint\Problema_Lanchonete.dll
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\Problema_Lanchonete.pdb
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\Problema_Lanchonete.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\net8.0\ref\Problema_Lanchonete.dll

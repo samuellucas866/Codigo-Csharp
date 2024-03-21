@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\bin\Debug\net8.0\Problema_Dentro_Fora.exe
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\bin\Debug\net8.0\Problema_Dentro_Fora.deps.json
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\bin\Debug\net8.0\Problema_Dentro_Fora.runtimeconfig.json
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\bin\Debug\net8.0\Problema_Dentro_Fora.dll
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\bin\Debug\net8.0\Problema_Dentro_Fora.pdb
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\Problema_Dentro_Fora.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\Problema_Dentro_Fora.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\Problema_Dentro_Fora.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\Problema_Dentro_Fora.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\Problema_Dentro_Fora.dll
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\refint\Problema_Dentro_Fora.dll
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\Problema_Dentro_Fora.pdb
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\Problema_Dentro_Fora.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Dentro_Fora\Problema_Dentro_Fora\obj\Debug\net8.0\ref\Problema_Dentro_Fora.dll

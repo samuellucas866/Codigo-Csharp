@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problema_Cada_Linha/1.0.0": {
+        "runtime": {
+          "Problema_Cada_Linha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema_Cada_Linha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

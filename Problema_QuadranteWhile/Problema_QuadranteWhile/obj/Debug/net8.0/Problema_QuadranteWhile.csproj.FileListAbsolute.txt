@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\bin\Debug\net8.0\Problema_QuadranteWhile.exe
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\bin\Debug\net8.0\Problema_QuadranteWhile.deps.json
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\bin\Debug\net8.0\Problema_QuadranteWhile.runtimeconfig.json
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\bin\Debug\net8.0\Problema_QuadranteWhile.dll
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\bin\Debug\net8.0\Problema_QuadranteWhile.pdb
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\Problema_QuadranteWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\Problema_QuadranteWhile.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\Problema_QuadranteWhile.AssemblyInfo.cs
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\Problema_QuadranteWhile.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\Problema_QuadranteWhile.dll
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\refint\Problema_QuadranteWhile.dll
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\Problema_QuadranteWhile.pdb
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\Problema_QuadranteWhile.genruntimeconfig.cache
+E:\WS-VS2022\Problema_QuadranteWhile\Problema_QuadranteWhile\obj\Debug\net8.0\ref\Problema_QuadranteWhile.dll

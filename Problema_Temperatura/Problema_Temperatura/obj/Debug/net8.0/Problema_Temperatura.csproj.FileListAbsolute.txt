@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\bin\Debug\net8.0\Problema_Temperatura.exe
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\bin\Debug\net8.0\Problema_Temperatura.deps.json
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\bin\Debug\net8.0\Problema_Temperatura.runtimeconfig.json
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\bin\Debug\net8.0\Problema_Temperatura.dll
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\bin\Debug\net8.0\Problema_Temperatura.pdb
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\Problema_Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\Problema_Temperatura.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\Problema_Temperatura.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\Problema_Temperatura.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\Problema_Temperatura.dll
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\refint\Problema_Temperatura.dll
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\Problema_Temperatura.pdb
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\Problema_Temperatura.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Temperatura\Problema_Temperatura\obj\Debug\net8.0\ref\Problema_Temperatura.dll

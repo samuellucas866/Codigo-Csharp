@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\bin\Debug\net8.0\Problema_Aprovados.exe
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\bin\Debug\net8.0\Problema_Aprovados.deps.json
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\bin\Debug\net8.0\Problema_Aprovados.runtimeconfig.json
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\bin\Debug\net8.0\Problema_Aprovados.dll
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\bin\Debug\net8.0\Problema_Aprovados.pdb
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\Problema_Aprovados.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\Problema_Aprovados.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\Problema_Aprovados.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\Problema_Aprovados.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\Problema_Aprovados.dll
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\refint\Problema_Aprovados.dll
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\Problema_Aprovados.pdb
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\Problema_Aprovados.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Aprovados\Problema_Aprovados\obj\Debug\net8.0\ref\Problema_Aprovados.dll

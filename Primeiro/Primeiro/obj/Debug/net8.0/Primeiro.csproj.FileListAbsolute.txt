@@ -1,0 +1,14 @@
+E:\WS-VS2022\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.exe
+E:\WS-VS2022\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.deps.json
+E:\WS-VS2022\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.runtimeconfig.json
+E:\WS-VS2022\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.dll
+E:\WS-VS2022\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.pdb
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.AssemblyInfoInputs.cache
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.AssemblyInfo.cs
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.dll
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\refint\Primeiro.dll
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.pdb
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.genruntimeconfig.cache
+E:\WS-VS2022\Primeiro\Primeiro\obj\Debug\net8.0\ref\Primeiro.dll

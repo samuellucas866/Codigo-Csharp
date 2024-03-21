@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\bin\Debug\net8.0\Problema_Sequencia_Impares.exe
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\bin\Debug\net8.0\Problema_Sequencia_Impares.deps.json
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\bin\Debug\net8.0\Problema_Sequencia_Impares.runtimeconfig.json
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\bin\Debug\net8.0\Problema_Sequencia_Impares.dll
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\bin\Debug\net8.0\Problema_Sequencia_Impares.pdb
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\Problema_Sequencia_Impares.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\Problema_Sequencia_Impares.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\Problema_Sequencia_Impares.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\Problema_Sequencia_Impares.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\Problema_Sequencia_Impares.dll
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\refint\Problema_Sequencia_Impares.dll
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\Problema_Sequencia_Impares.pdb
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\Problema_Sequencia_Impares.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Sequencia_Impares\Problema_Sequencia_Impares\obj\Debug\net8.0\ref\Problema_Sequencia_Impares.dll

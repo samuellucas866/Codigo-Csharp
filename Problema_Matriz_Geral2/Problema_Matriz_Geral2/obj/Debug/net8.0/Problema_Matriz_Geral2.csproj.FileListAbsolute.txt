@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\bin\Debug\net8.0\Problema_Matriz_Geral2.exe
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\bin\Debug\net8.0\Problema_Matriz_Geral2.deps.json
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\bin\Debug\net8.0\Problema_Matriz_Geral2.runtimeconfig.json
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\bin\Debug\net8.0\Problema_Matriz_Geral2.dll
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\bin\Debug\net8.0\Problema_Matriz_Geral2.pdb
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\Problema_Matriz_Geral2.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\Problema_Matriz_Geral2.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\Problema_Matriz_Geral2.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\Problema_Matriz_Geral2.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\Problema_Matriz_Geral2.dll
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\refint\Problema_Matriz_Geral2.dll
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\Problema_Matriz_Geral2.pdb
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\Problema_Matriz_Geral2.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Matriz_Geral2\Problema_Matriz_Geral2\obj\Debug\net8.0\ref\Problema_Matriz_Geral2.dll

@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\bin\Debug\net8.0\Problema_Media_Ponderada.exe
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\bin\Debug\net8.0\Problema_Media_Ponderada.deps.json
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\bin\Debug\net8.0\Problema_Media_Ponderada.runtimeconfig.json
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\bin\Debug\net8.0\Problema_Media_Ponderada.dll
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\bin\Debug\net8.0\Problema_Media_Ponderada.pdb
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\Problema_Media_Ponderada.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\Problema_Media_Ponderada.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\Problema_Media_Ponderada.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\Problema_Media_Ponderada.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\Problema_Media_Ponderada.dll
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\refint\Problema_Media_Ponderada.dll
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\Problema_Media_Ponderada.pdb
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\Problema_Media_Ponderada.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Media_Ponderada\Problema_Media_Ponderada\obj\Debug\net8.0\ref\Problema_Media_Ponderada.dll

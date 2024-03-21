@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\bin\Debug\net8.0\Problema_Terreno.exe
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\bin\Debug\net8.0\Problema_Terreno.deps.json
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\bin\Debug\net8.0\Problema_Terreno.runtimeconfig.json
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\bin\Debug\net8.0\Problema_Terreno.dll
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\bin\Debug\net8.0\Problema_Terreno.pdb
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\Problema_Terreno.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\Problema_Terreno.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\Problema_Terreno.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\Problema_Terreno.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\Problema_Terreno.dll
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\refint\Problema_Terreno.dll
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\Problema_Terreno.pdb
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\Problema_Terreno.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Terreno\Problema_Terreno\obj\Debug\net8.0\ref\Problema_Terreno.dll

@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\bin\Debug\net8.0\Problema_Abaixo_Media.exe
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\bin\Debug\net8.0\Problema_Abaixo_Media.deps.json
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\bin\Debug\net8.0\Problema_Abaixo_Media.runtimeconfig.json
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\bin\Debug\net8.0\Problema_Abaixo_Media.dll
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\bin\Debug\net8.0\Problema_Abaixo_Media.pdb
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\Problema_Abaixo_Media.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\Problema_Abaixo_Media.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\Problema_Abaixo_Media.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\Problema_Abaixo_Media.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\Problema_Abaixo_Media.dll
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\refint\Problema_Abaixo_Media.dll
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\Problema_Abaixo_Media.pdb
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\Problema_Abaixo_Media.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Abaixo_Media\Problema_Abaixo_Media\obj\Debug\net8.0\ref\Problema_Abaixo_Media.dll

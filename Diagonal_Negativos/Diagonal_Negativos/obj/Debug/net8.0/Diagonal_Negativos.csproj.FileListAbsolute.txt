@@ -1,0 +1,14 @@
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.exe
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.deps.json
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.runtimeconfig.json
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.dll
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.pdb
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.AssemblyInfoInputs.cache
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.AssemblyInfo.cs
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.dll
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\refint\Diagonal_Negativos.dll
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.pdb
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.genruntimeconfig.cache
+E:\WS-VS2022\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\ref\Diagonal_Negativos.dll

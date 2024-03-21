@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\bin\Debug\net8.0\Problema_Diagonal_Negativos.exe
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\bin\Debug\net8.0\Problema_Diagonal_Negativos.deps.json
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\bin\Debug\net8.0\Problema_Diagonal_Negativos.runtimeconfig.json
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\bin\Debug\net8.0\Problema_Diagonal_Negativos.dll
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\bin\Debug\net8.0\Problema_Diagonal_Negativos.pdb
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\Problema_Diagonal_Negativos.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\Problema_Diagonal_Negativos.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\Problema_Diagonal_Negativos.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\Problema_Diagonal_Negativos.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\Problema_Diagonal_Negativos.dll
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\refint\Problema_Diagonal_Negativos.dll
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\Problema_Diagonal_Negativos.pdb
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\Problema_Diagonal_Negativos.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Diagonal_Negativos\Problema_Diagonal_Negativos\obj\Debug\net8.0\ref\Problema_Diagonal_Negativos.dll

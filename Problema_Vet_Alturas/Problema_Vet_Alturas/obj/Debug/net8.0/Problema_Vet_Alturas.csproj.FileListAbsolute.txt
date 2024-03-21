@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\bin\Debug\net8.0\Problema_Vet_Alturas.exe
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\bin\Debug\net8.0\Problema_Vet_Alturas.deps.json
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\bin\Debug\net8.0\Problema_Vet_Alturas.runtimeconfig.json
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\bin\Debug\net8.0\Problema_Vet_Alturas.dll
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\bin\Debug\net8.0\Problema_Vet_Alturas.pdb
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\Problema_Vet_Alturas.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\Problema_Vet_Alturas.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\Problema_Vet_Alturas.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\Problema_Vet_Alturas.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\Problema_Vet_Alturas.dll
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\refint\Problema_Vet_Alturas.dll
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\Problema_Vet_Alturas.pdb
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\Problema_Vet_Alturas.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Vet_Alturas\Problema_Vet_Alturas\obj\Debug\net8.0\ref\Problema_Vet_Alturas.dll

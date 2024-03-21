@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\bin\Debug\net8.0\Problema_Divisao.exe
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\bin\Debug\net8.0\Problema_Divisao.deps.json
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\bin\Debug\net8.0\Problema_Divisao.runtimeconfig.json
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\bin\Debug\net8.0\Problema_Divisao.dll
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\bin\Debug\net8.0\Problema_Divisao.pdb
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\Problema_Divisao.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\Problema_Divisao.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\Problema_Divisao.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\Problema_Divisao.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\Problema_Divisao.dll
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\refint\Problema_Divisao.dll
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\Problema_Divisao.pdb
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\Problema_Divisao.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Divisao\Problema_Divisao\obj\Debug\net8.0\ref\Problema_Divisao.dll

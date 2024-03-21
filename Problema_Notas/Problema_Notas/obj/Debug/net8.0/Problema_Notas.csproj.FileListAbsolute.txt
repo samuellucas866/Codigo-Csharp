@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Notas\Problema_Notas\bin\Debug\net8.0\Problema_Notas.exe
+E:\WS-VS2022\Problema_Notas\Problema_Notas\bin\Debug\net8.0\Problema_Notas.deps.json
+E:\WS-VS2022\Problema_Notas\Problema_Notas\bin\Debug\net8.0\Problema_Notas.runtimeconfig.json
+E:\WS-VS2022\Problema_Notas\Problema_Notas\bin\Debug\net8.0\Problema_Notas.dll
+E:\WS-VS2022\Problema_Notas\Problema_Notas\bin\Debug\net8.0\Problema_Notas.pdb
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\Problema_Notas.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\Problema_Notas.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\Problema_Notas.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\Problema_Notas.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\Problema_Notas.dll
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\refint\Problema_Notas.dll
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\Problema_Notas.pdb
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\Problema_Notas.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Notas\Problema_Notas\obj\Debug\net8.0\ref\Problema_Notas.dll

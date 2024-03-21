@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\bin\Debug\net8.0\Problema_Dardos.exe
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\bin\Debug\net8.0\Problema_Dardos.deps.json
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\bin\Debug\net8.0\Problema_Dardos.runtimeconfig.json
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\bin\Debug\net8.0\Problema_Dardos.dll
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\bin\Debug\net8.0\Problema_Dardos.pdb
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\Problema_Dardos.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\Problema_Dardos.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\Problema_Dardos.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\Problema_Dardos.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\Problema_Dardos.dll
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\refint\Problema_Dardos.dll
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\Problema_Dardos.pdb
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\Problema_Dardos.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Dardos\Problema_Dardos\obj\Debug\net8.0\ref\Problema_Dardos.dll

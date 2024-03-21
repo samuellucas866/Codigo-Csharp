@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\bin\Debug\net8.0\Problema_Baskara.exe
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\bin\Debug\net8.0\Problema_Baskara.deps.json
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\bin\Debug\net8.0\Problema_Baskara.runtimeconfig.json
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\bin\Debug\net8.0\Problema_Baskara.dll
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\bin\Debug\net8.0\Problema_Baskara.pdb
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\Problema_Baskara.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\Problema_Baskara.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\Problema_Baskara.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\Problema_Baskara.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\Problema_Baskara.dll
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\refint\Problema_Baskara.dll
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\Problema_Baskara.pdb
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\Problema_Baskara.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Baskara\Problema_Baskara\obj\Debug\net8.0\ref\Problema_Baskara.dll

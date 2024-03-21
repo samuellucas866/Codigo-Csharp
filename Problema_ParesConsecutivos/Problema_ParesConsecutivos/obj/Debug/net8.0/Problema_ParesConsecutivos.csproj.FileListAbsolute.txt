@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\bin\Debug\net8.0\Problema_ParesConsecutivos.exe
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\bin\Debug\net8.0\Problema_ParesConsecutivos.deps.json
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\bin\Debug\net8.0\Problema_ParesConsecutivos.runtimeconfig.json
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\bin\Debug\net8.0\Problema_ParesConsecutivos.dll
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\bin\Debug\net8.0\Problema_ParesConsecutivos.pdb
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\Problema_ParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\Problema_ParesConsecutivos.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\Problema_ParesConsecutivos.AssemblyInfo.cs
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\Problema_ParesConsecutivos.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\Problema_ParesConsecutivos.dll
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\refint\Problema_ParesConsecutivos.dll
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\Problema_ParesConsecutivos.pdb
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\Problema_ParesConsecutivos.genruntimeconfig.cache
+E:\WS-VS2022\Problema_ParesConsecutivos\Problema_ParesConsecutivos\obj\Debug\net8.0\ref\Problema_ParesConsecutivos.dll

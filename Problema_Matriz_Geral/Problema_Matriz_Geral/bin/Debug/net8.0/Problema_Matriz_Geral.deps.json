@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problema_Matriz_Geral/1.0.0": {
+        "runtime": {
+          "Problema_Matriz_Geral.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema_Matriz_Geral/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

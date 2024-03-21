@@ -1,0 +1,14 @@
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\bin\Debug\net8.0\Problema_Circulo.exe
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\bin\Debug\net8.0\Problema_Circulo.deps.json
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\bin\Debug\net8.0\Problema_Circulo.runtimeconfig.json
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\bin\Debug\net8.0\Problema_Circulo.dll
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\bin\Debug\net8.0\Problema_Circulo.pdb
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\Problema_Circulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\Problema_Circulo.AssemblyInfoInputs.cache
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\Problema_Circulo.AssemblyInfo.cs
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\Problema_Circulo.csproj.CoreCompileInputs.cache
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\Problema_Circulo.dll
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\refint\Problema_Circulo.dll
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\Problema_Circulo.pdb
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\Problema_Circulo.genruntimeconfig.cache
+E:\WS-VS2022\Problema_Circulo\Problema_Circulo\obj\Debug\net8.0\ref\Problema_Circulo.dll
